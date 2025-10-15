@@ -10,7 +10,7 @@ This repository contains the source code for my personal portfolio website. The 
 
 ## Demo
 
-Check out the live demo of the portfolio [here](https://saikrishnabijja.in/).
+Check out the live demo of the portfolio [here](https://saikrishnabijja.github.io/portfolio/).
 
 ## Technologies
 
